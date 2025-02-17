@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(./WhatsApp\ Image\ 2025-02-15\ at\ 09.10.43_0f7b938f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+}
+header {
+    position: fixed;
+}
+ul {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    list-style-type: none;
+    font-size: 25px;
+    color: black;
+    background-color: white;
+    width: 100vw;
+}
+li {
+    padding: 25px;
+    padding-right: 40px;
+}
+.li1 {
+    padding-right: 850px;
+    color: purple;
+    font-size: 30px;
+}
